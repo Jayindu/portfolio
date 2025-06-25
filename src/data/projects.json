@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Financial Tracker Application (Fynaura) ",
+    "imageSrc": "projects/project.png",
+    "description": "This is a mobile application that helps busy individuals track their expenses and incomes. Users Can add their incomes and expenses and view their income cand expenses using daily ,weekly and monthly text wise bar chart and pie chart. uses can add expenses mannualy or scanning their bills using camera and also set financial goals and track them. uses can create budgets collaborativly with their friends and family members. ",
+    "skills": ["Flutter", "Nest.js", "MongoDB"],
+    "demo": "https://mega.nz/file/mMoQiQ7S#Sw-DnwPqjqumJG6gR4kFvJkaRqIgEBPT9mIAF1-tO_A",
+    "source": "https://github.com/Fynaura/fynaura"
+  },
+  {
+    "title": "Real Time Event Ticketing System",
+    "imageSrc": "projects/project.png",
+    "description": "This is real time ticket booking system developed using spring boot and react.At the start configure total tickets in the pool ,max pool capacity,ammount of vendors ,ammount of customers and ticket adding and buying rate for seconds.when start the system can watch how many ticket remain in the pool",
+    "skills": ["Java", "Spring Boot", "React"],
+    "demo": "https://youtu.be/HJFfA09Qi4Q",
+    "source": "https://github.com/Jayindu/Real-Time-Event-Ticketing-System"
+  },
+  {
+    "title": "Shopping Application",
+    "imageSrc": "projects/project.png",
+    "description": "This is a shopping application developed using java and mysql. This project have basic crud operations",
+    "skills": ["Java", "Mysql"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Jayindu/ShoppingAppCLI"
+  }
+]

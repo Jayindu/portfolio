@@ -1,0 +1,63 @@
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+  
+  .modal {
+    background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+    padding: 20px;
+    width: 90%;
+    max-width: 500px;
+    border-radius: 8px;
+    position: relative;
+    text-align: center;
+  }
+  
+
+  
+  .title {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+  }
+  
+  .description {
+    margin: 1rem 0;
+  }
+  
+  .skills {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+  }
+  
+  .skill {
+    background: #000000;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  
+  
+  .close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 18px;
+    background: white;
+    border: black;
+    cursor: pointer;
+    padding: 3px 5px;
+    border-radius: 20px;
+  }
+  
