@@ -12,7 +12,7 @@ export const Hero = () => {
         I'm a Backend Developer passionate about creating backends for Systems.
         </p>
         <a
-  href="K.W.J.H.D Kandewaththa.pdf"
+  href="/K.W.J.H.D Kandewaththa.pdf"
   className={styles.contactBtn}
   download
   target="_blank"
